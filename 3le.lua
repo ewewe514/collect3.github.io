@@ -17,6 +17,6 @@ task.spawn(function()
                 end
             end
         end
-        task.wait(0.3) -- Keeping your delay between activations
+        task.wait(0.5) -- Keeping your delay between activations
     end
 end)
